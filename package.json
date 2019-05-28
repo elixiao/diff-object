@@ -1,0 +1,10 @@
+{
+  "name": "diff-object",
+  "version": "0.0.1",
+  "description": "diff javascript object",
+  "main": "diff-object.js",
+  "repository": "https://github.com/elixiao/diff-object",
+  "author": "elixiao-mac <elixiao@gmail.com>",
+  "keywords": [],
+  "license": "MIT"
+}
